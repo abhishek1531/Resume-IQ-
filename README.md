@@ -171,14 +171,23 @@ ResumeIQ
 
 # 📸 Screenshots
 
-The application includes:
+## 🏠 Landing Page
+![Landing Page](screenshots/landingpage.png)
 
-- Landing Page
-- Authentication Pages
-- User Dashboard
-- Resume Upload Interface
-- AI Analysis Results
-- ATS Score Visualization
+## 🔐 Authentication Pages
+![Authentication Pages](screenshots/authenticationpage.png)
+
+## 📊 User Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+## 📄 Resume Upload Interface
+![Resume Upload](screenshots/landingpage.png)
+
+## 🤖 AI Analysis Results
+![AI Analysis](screenshots/ai-analysis.png)
+
+## 📈 ATS Score Visualization
+![ATS Score](screenshots/ats-score.png)
 
 ---
 
